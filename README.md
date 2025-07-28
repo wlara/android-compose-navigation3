@@ -1,2 +1,2 @@
-# android-compose-navigation3
-Demo App to showcase how to use the Android Jetpack Compose Navigation 3 library
+# android-compose-navigation3-demo
+Demo App showcasing usage of the Android Jetpack Compose Navigation 3 library
